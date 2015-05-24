@@ -1,0 +1,19 @@
+PODS:
+  - AMapNavi (1.2.1)
+  - AMapSearch (2.5.0)
+  - HHAlertView (0.0.1)
+  - MBProgressHUD (0.9.1)
+
+DEPENDENCIES:
+  - AMapNavi
+  - AMapSearch
+  - HHAlertView
+  - MBProgressHUD
+
+SPEC CHECKSUMS:
+  AMapNavi: 6b7ba7c56a717951df08817292217db7914dbf9f
+  AMapSearch: eafa5a749b1078a46f15e6108e88307f78f75e9b
+  HHAlertView: d5e03ca7d89513949488278f9233d386993e6bbb
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+
+COCOAPODS: 0.37.0

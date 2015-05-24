@@ -1,0 +1,6 @@
+#include "Pods-HHAlertView.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Private" "${PODS_ROOT}/Headers/Private/HHAlertView" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/AMapNavi" "${PODS_ROOT}/Headers/Public/AMapSearch" "${PODS_ROOT}/Headers/Public/HHAlertView" "${PODS_ROOT}/Headers/Public/MBProgressHUD"
+OTHER_LDFLAGS = -ObjC
+PODS_ROOT = ${SRCROOT}
+SKIP_INSTALL = YES
